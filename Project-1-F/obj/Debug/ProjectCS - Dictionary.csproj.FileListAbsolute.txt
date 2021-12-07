@@ -1,0 +1,10 @@
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\bin\Debug\Project-1-F.exe.config
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\bin\Debug\Project-1-F.exe
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\bin\Debug\Project-1-F.pdb
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\obj\Debug\Project_1_F.MainForm.resources
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\obj\Debug\Project_1_F.Properties.Resources.resources
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\obj\Debug\Project_1_F.SettingForm.resources
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\obj\Debug\ProjectCS - Dictionary.csproj.GenerateResource.cache
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\obj\Debug\Project-1-F.exe
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\obj\Debug\Project-1-F.pdb
+A:\CppProjects\Project-1-F\Project-1-F\Project-1-F\obj\Debug\ProjectCS - Dictionary.csprojAssemblyReference.cache

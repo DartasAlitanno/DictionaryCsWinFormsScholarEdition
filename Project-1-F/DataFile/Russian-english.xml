@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<words>
+  <word>
+    <ru>Привет</ru>
+    <en1>Hello</en1>
+    <en2>hi, hello, salutation, hey</en2>
+  </word>
+  <word>
+    <ru>Пока</ru>
+    <en1>Goodbye</en1>
+    <en2>bye, farewell</en2>
+  </word>
+</words>

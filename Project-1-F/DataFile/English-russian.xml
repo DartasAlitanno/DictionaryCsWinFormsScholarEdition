@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<words>
+  <word>
+    <ru>Hello</ru>
+    <en1>Привет</en1>
+    <en2>привет, добрый день, здравствуй</en2>
+  </word>
+  <word>
+    <ru>Goodbye</ru>
+    <en1>Пока</en1>
+    <en2>до свидания, прощай</en2>
+  </word>
+  <word>
+    <ru>Bye</ru>
+    <en1>Пока</en1>
+    <en2>прощай</en2>
+  </word>
+</words>
